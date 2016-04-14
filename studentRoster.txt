@@ -1,0 +1,4 @@
+{"name":"Marty McFly","gender":"male","grade":"11","GPA":"1.9","detentions":"12"}
+{"name":"Biff Stoopid","gender":"male","grade":"10","GPA":"1.75","detentions":"11"}
+{"name":"Mary Jane","gender":"female","grade":"9","GPA":"4,0","detentions":"12"}
+{"name":"Ray Vaughn","gender":"male","grade":"4","GPA":"3.3","detentions":"9"}

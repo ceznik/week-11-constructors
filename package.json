@@ -1,0 +1,23 @@
+{
+  "name": "constructors",
+  "version": "1.0.0",
+  "description": "week-11 homework: constructors exercise",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/ceznik/week-11-constructors.git"
+  },
+  "keywords": [
+    "constructors",
+    "student"
+  ],
+  "author": "Shawn Singh",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}
